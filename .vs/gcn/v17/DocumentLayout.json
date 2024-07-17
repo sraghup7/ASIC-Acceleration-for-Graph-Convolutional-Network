@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chara\\Videos\\gcn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chara\\Videos\\gcn\\Scratch_Pad.sv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scratch_Pad.sv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chara\\Videos\\gcn\\Transformation_FSM.sv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transformation_FSM.sv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chara\\Videos\\gcn\\Matrix_FM_WM_Memory.sv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Matrix_FM_WM_Memory.sv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transformation_FSM.sv",
+              "DocumentMoniker": "C:\\Users\\chara\\Videos\\gcn\\Transformation_FSM.sv",
+              "RelativeDocumentMoniker": "Transformation_FSM.sv",
+              "ToolTip": "C:\\Users\\chara\\Videos\\gcn\\Transformation_FSM.sv",
+              "RelativeToolTip": "Transformation_FSM.sv",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAHgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T00:43:58.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix_FM_WM_Memory.sv",
+              "DocumentMoniker": "C:\\Users\\chara\\Videos\\gcn\\Matrix_FM_WM_Memory.sv",
+              "RelativeDocumentMoniker": "Matrix_FM_WM_Memory.sv",
+              "ToolTip": "C:\\Users\\chara\\Videos\\gcn\\Matrix_FM_WM_Memory.sv",
+              "RelativeToolTip": "Matrix_FM_WM_Memory.sv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T00:47:07.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scratch_Pad.sv",
+              "DocumentMoniker": "C:\\Users\\chara\\Videos\\gcn\\Scratch_Pad.sv",
+              "RelativeDocumentMoniker": "Scratch_Pad.sv",
+              "ToolTip": "C:\\Users\\chara\\Videos\\gcn\\Scratch_Pad.sv",
+              "RelativeToolTip": "Scratch_Pad.sv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T00:46:41.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
